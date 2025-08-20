@@ -3,6 +3,20 @@ GameProject {
  GUID "6628B1B15EB08915"
  TITLE "Saigon_Scenarios"
  Dependencies {
-  "61C408151551966F" "607969DE27849456" "5F0D245931200FD1" "5F1F371656DC4EBF" "62E0ED87A0F66A9A" "58D0FB3206B6F859"
+  "61C408151551966F" "607969DE27849456" "5F0D245931200FD1" "62E0ED87A0F66A9A" "61EB3401B061E7DC" "58D0FB3206B6F859"
+ }
+ Configurations {
+  GameProjectConfig PC {
+  }
+  GameProjectConfig XBOX_ONE {
+  }
+  GameProjectConfig XBOX_SERIES {
+  }
+  GameProjectConfig PS4 {
+  }
+  GameProjectConfig PS5 {
+  }
+  GameProjectConfig HEADLESS {
+  }
  }
 }
